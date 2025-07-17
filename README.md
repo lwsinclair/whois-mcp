@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bharathvaj-ganesan-whois-mcp-badge.png)](https://mseep.ai/app/bharathvaj-ganesan-whois-mcp)
+
 # Whois MCP
 
 [Model Context Protocol](https://modelcontextprotocol.io) server for whois lookups.
